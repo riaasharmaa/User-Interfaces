@@ -1,0 +1,28 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Build
+target/
+build/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Log
+*.log
+
